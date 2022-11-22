@@ -1,0 +1,13 @@
+
+h1{
+  text-align: center;
+  padding: 5%;
+}
+
+.box{
+  text-align:center;
+  position: relative;
+  bottom: 30px;
+  right: 60px;
+  font-family: "Montserrat";
+}
